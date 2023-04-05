@@ -52,20 +52,20 @@
         </div>
     </div>
     <script>
-         function calculate(value) {
-        var result = document.getElementById("resultado");
-        if (value === "C") {
-          result.value = "";
-        } else if (value === "=") {
-          result.value = eval(result.value);
-        } else {
-          result.value += value;
+        function calculate(value) {
+            var result = document.getElementById("resultado");
+            if (value === "C") {
+            result.value = "";
+            } else if (value === "=") {
+            result.value = eval(result.value);
+            } else {
+            result.value += value;
+            }
         }
-      }
 
-      function clean() {
-        document.getElementById("resultado").value = "";
-      }
+        function clean() {
+            document.getElementById("resultado").value = "";
+        }
     </script>
     <script src="script.js"></script>
 </body>
