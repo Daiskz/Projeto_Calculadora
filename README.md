@@ -1,4 +1,4 @@
 # Projeto de Calculadora
 
-## Calculadora com dois temas
-Projeto de calculadora feita em HTML, CSS e JavaScript
+## Projeto Feito Para a Aula - Usabilidade, desenvolvimento web, mobile e jogos - USJT
+Projeto de uma calculadora feita em HTML, CSS e JavaScript
